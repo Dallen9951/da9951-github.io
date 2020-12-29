@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Allens Blog</title>
-    <link href="https://da9951.githubpages.io/feed.xml" rel="self" />
-    <link href="https://da9951.githubpages.io" />
-    <updated>2020-12-29T11:37:21-06:00</updated>
+    <link href="https://dallen9951.github.io/feed.xml" rel="self" />
+    <link href="https://dallen9951.github.io" />
+    <updated>2020-12-29T11:57:56-06:00</updated>
     <author>
         <name>Danny Allen</name>
     </author>
-    <id>https://da9951.githubpages.io</id>
+    <id>https://dallen9951.github.io</id>
 
     <entry>
-        <title>titke</title>
+        <title>Example of a post title.</title>
         <author>
             <name>Danny Allen</name>
         </author>
-        <link href="https://da9951.githubpages.io/titke.html"/>
-        <id>https://da9951.githubpages.io/titke.html</id>
+        <link href="https://dallen9951.github.io/titke.html"/>
+        <id>https://dallen9951.github.io/titke.html</id>
 
-        <updated>2020-12-29T11:37:21-06:00</updated>
+        <updated>2020-12-29T11:57:56-06:00</updated>
             <summary>
                 <![CDATA[
-                    bgdjnytr
+                    This is an example post!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>bgdjnytr</p>
+                <p>This is an example post!</p>
             ]]>
         </content>
     </entry>
